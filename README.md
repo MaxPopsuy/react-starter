@@ -1,14 +1,14 @@
-# Starter pack:
+# React starter pack
 
-First of all init the starter pack
+#### First of all init the starter pack
 
 # npm init
 
-Next, install all packages
+#### Next, install all packages
 
 # npm i
 
-Done, now you can start your react project
+#### Done, now you can start your react project
 
 # Starter pack includes:
 
@@ -24,12 +24,12 @@ Done, now you can start your react project
 
 # npm start
 
-- Start project
+- #### Start project
 
 # npm run build
 
-- Build project
+- #### Build project
 
 # npm run deploy
 
-- Deploy project on netlify
+- #### Deploy project on netlify
