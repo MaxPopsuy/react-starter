@@ -12,15 +12,31 @@
 
 # Starter pack includes:
 
-- Last version of react
+- Latest version of React
 - Material UI
 - Redux, Redux Toolkit, Redux-Persist
 - Axios
 - Classnames
 - Pnotify
 - React router
+- Module Aliases
+  - @components
+  - @store
+  - @utils
+  - @pages
+  - @scss
+  - @images
+  - @public
+  - @src
+  - @root
 
-# Starter pack command:
+You can access the aliases by using that code:
+
+```javascript
+  import cool from "@components/cool.js"
+```
+
+# Starter pack commands:
 
 # npm start
 
