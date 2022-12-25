@@ -2,7 +2,7 @@
 
 #### First of all init the starter pack
 
-# npm init
+# ```npm init```
 
 #### Next, install all packages
 
@@ -38,14 +38,14 @@ You can access the aliases by using that code:
 
 # Starter pack commands:
 
-# npm start
+# ```npm start```
 
-- #### Start project
+- ### Start project
 
-# npm run build
+# ```npm run build```
 
-- #### Build project
+- ### Build project
 
-# npm run deploy
+# ```npm run deploy```
 
-- #### Deploy project on netlify
+- ### Deploy project on netlify
