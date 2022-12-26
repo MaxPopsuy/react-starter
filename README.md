@@ -6,7 +6,7 @@
 
 #### Next, install all packages
 
-# npm i
+# ```npm i```
 
 #### Done, now you can start your react project
 
