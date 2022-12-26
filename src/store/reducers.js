@@ -1,9 +1,11 @@
 import { createReducer } from "@reduxjs/toolkit";
 import { combineReducers } from "redux";
+import { TEST_ACTION } from "@store/actions";
 
+const initialState = { items: ["item-1", "item-2", "item-3"] };
 
-const items = createReducer([], {
-    ['action/type']: (_, action) => action.payload,
+const test = createReducer(initialState, {
+  [TEST_ACTION]: (_, action) => action.payload,
 });
 
-export default items;
+export default combineReducers({ test: test });

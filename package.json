@@ -13,23 +13,23 @@
     "axios": "^0.27.2",
     "classnames": "^2.3.1",
     "gh-pages": "^4.0.0",
-    "node-sass": "^7.0.1",
     "pnotify": "^5.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-loader-spinner": "^5.1.5",
     "react-redux": "^8.0.2",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "^2.1.3",
+    "react-scripts": "^5.0.1",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0",
+    "sass": "^1.57.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject",
     "predeploy": "npm run build",
     "deploy": "netlify deploy -p"
   },
@@ -52,17 +52,6 @@
     ]
   },
   "devDependencies": {
-    "module-alias": "^2.2.2"
-  },
-  "_moduleAliases": {
-    "@root"      : ".",
-    "@src": "src/",
-    "@components": "src/components",
-    "@store": "src/store",
-    "@utils": "src/utils",
-    "@pages": "src/pages",
-    "@scss": "src/scss",
-    "@images": "src/images",
-    "@public": "public"
+    "craco": "^0.0.3"
   }
 }

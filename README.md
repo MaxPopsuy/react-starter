@@ -14,21 +14,24 @@
 
 - Latest version of React
 - Material UI
-- Redux, Redux Toolkit, Redux-Persist
+- Redux and Redux Toolkit with some test stuff
 - Axios
 - Classnames
 - Pnotify
 - React router
-- Module Aliases
-  - @components
-  - @store
-  - @utils
-  - @pages
-  - @scss
-  - @images
-  - @public
-  - @src
-  - @root
+- Create React App Configuration Override (CRACO)
+  - craco.config.js
+  - Custom Eslint 
+  - Custom aliases: 
+    - ###### @components
+    - ###### @store
+    - ###### @utils
+    - ###### @pages
+    - ###### @scss
+    - ###### @images
+    - ###### @public
+    - ###### @src
+    - ###### @root
 
 You can access the aliases by using that code:
 
