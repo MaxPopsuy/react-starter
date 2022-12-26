@@ -52,3 +52,5 @@ You can access the aliases by using that code:
 # ```npm run deploy```
 
 - ### Deploy project on netlify
+
+# ```May the React Force be with you 🥰```
