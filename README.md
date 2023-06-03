@@ -33,6 +33,7 @@
     - @public
     - @src
     - @root
+    - @config
 
 You can access the aliases by using that code:
 

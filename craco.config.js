@@ -42,6 +42,7 @@ module.exports = {
       "@utils": path.join(path.resolve(__dirname, "./src/utils")),
       "@pages": path.join(path.resolve(__dirname, "./src/pages")),
       "@public": path.join(path.resolve(__dirname, "./public")),
+      "@config": path.join(path.resolve(__dirname, "./src/config")),
     },
   },
 };
