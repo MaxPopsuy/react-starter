@@ -15,10 +15,10 @@
 - Latest version of ```React```
 - ```Material UI```
 - ```Redux``` and ```Redux Toolkit``` with some test stuff
-- ```Axios```
+- ```Axios (with config file)```
 - ```Classnames```
 - ```Pnotify```
-- ```React router```
+- ```React router (with config files: config/router.js and utils/constants.js)```
 - ```Create React App Configuration Override``` [(CRACO)](https://craco.js.org/)
   - ```craco.config.js```
   - Custom ```eslint``` 
